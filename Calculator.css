@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(21, 15, 15);
+    color: white;
+    font-size:20px;
+    
+}
+
+main{
+    margin: 5px;
+    margin-left:12px;
+    width: 400px;
+    height: 40px;
+    display: grid;
+    grid-template-columns:
+    70px 70px 70px 70px;
+}
+
+main div{
+    border-radius: 10px;
+    margin: 3px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(46, 122, 189);
+    color: rgb(30, 14, 20)
+}
+
