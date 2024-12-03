@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(100, 107, 113);
+    color: white;
+    font-size:20px;
+    
+}
+
+main{
+    margin: 5px;
+    margin-left:12px;
+    width: 400px;
+    height: 40px;
+    display: grid;
+    grid-template-columns:
+    70px 70px 70px 70px;
+}
